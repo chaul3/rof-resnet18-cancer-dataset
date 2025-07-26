@@ -4,10 +4,11 @@ multi_groups
 *.png
 *.jpg
 *.jpeg
-*.pdf
 *.npy
 *.pt
 *.pth
+*.ipynb
+venv
 __pycache__/
 .DS_Store
 
