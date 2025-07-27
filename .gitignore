@@ -8,6 +8,6 @@ multi_groups
 *.pt
 *.pth
 *.ipynb
-venv
+venv/
 __pycache__/
 .DS_Store
