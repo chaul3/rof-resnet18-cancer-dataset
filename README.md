@@ -1,6 +1,6 @@
 ## Methodology
 
-This project investigates the relevance of individual penultimate-layer features in a ResNet-18 model trained for skin lesion classification (ISIC dataset). The methodology is inspired by the approach described in [`zhao24b.pdf`](zhao24b.pdf).
+This project investigates the relevance of individual penultimate-layer features in a ResNet-18 model trained for skin lesion classification (ISIC dataset). The methodology is inspired by the approach described in Role Taxonomy of Units in Deep Neural Networks by Yang Zhao, Hao Zhang, and Xiuyuan Hu (Tsinghua University).
 
 ### 1. Baseline Model Evaluation
 
