@@ -1,5 +1,4 @@
 utils.py
-utils_1.py
 multi_groups
 *.csv
 *.png
@@ -12,4 +11,3 @@ multi_groups
 venv
 __pycache__/
 .DS_Store
-
