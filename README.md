@@ -25,7 +25,7 @@ This project investigates the relevance of individual penultimate-layer features
 - The model is evaluated for each *k*, and accuracy metrics are recorded, resulting in accuracy-vs-units curves.
 
 ### 5. Visualization
-
+<img src="https://github.com/chaul3/rof-resnet18-cancer-dataset/blob/main/rof_curve_fc_output.pdf" align= " right">
 - The accuracy curves for different metrics (mean accuracy, group accuracies, etc.) are plotted as a function of the number of activated units.
 - The baseline accuracy is shown as a reference.
 - These plots illustrate how model performance depends on the number and identity of penultimate-layer features, providing insight into feature relevance and redundancy.
