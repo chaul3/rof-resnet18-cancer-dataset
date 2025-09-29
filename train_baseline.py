@@ -4,16 +4,14 @@ import torch.nn as nn
 import sys
 import numpy as np
 import tqdm
-from functools import partial
 import pandas as pd
 import pickle
 import torch.optim as optim
 from torch.utils.data import DataLoader
 import torchvision.models as models
-
+from functools import partial
 from isic import get_transform, get_loader
 from isic import ISICDataset
-
 from utils import evaluate, get_y_p
 
 import random
