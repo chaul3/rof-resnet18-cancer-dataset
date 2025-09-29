@@ -1,12 +1,12 @@
 import os
-
-import pandas as pd
-import numpy as np
 from torch.utils.data.dataset import Dataset
 import torch
 from PIL import Image
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
+import pandas as pd
+import numpy as np
+
 
 transforms_ = {
     'train': [
