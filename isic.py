@@ -6,8 +6,6 @@ from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 import pandas as pd
 import numpy as np
-
-
 transforms_ = {
     'train': [
         transforms.Resize(256),
